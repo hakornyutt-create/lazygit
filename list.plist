@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>category</key>
+			<string>podcast</string>
+			<key>channel-persistent-id</key>
+			<integer>-234096737763792753</integer>
+			<key>episode-persistent-id</key>
+			<integer>-9212736287021304150</integer>
+			<key>external-guid</key>
+			<string>06092025</string>
+			<key>name</key>
+			<string>WWDC25 Keynote / Apple Events (video)</string>
+			<key>podcast-url</key>
+			<string>https://applehosted.podcasts.apple.com/apple_keynotes/apple_keynotes.xml</string>
+		</dict>
+	</array>
+</dict>
+</plist>
